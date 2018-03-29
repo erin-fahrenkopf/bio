@@ -1,3 +1,4 @@
 erin fahrenkopf is my name
 i am a postdoc at stanford
-i am learning to use git
+i am learning to use git and github
+i am pregnant
